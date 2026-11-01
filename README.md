@@ -2,6 +2,20 @@
 
 Local privilege escalation via ungated CBS COM method - medium-IL to SYSTEM arbitrary file write on Windows 11
 
+## Table of Contents
+
+- [Disclosure Timeline](#disclosure-timeline)
+- [The Vulnerability](#the-vulnerability)
+  - [Affected versions](#affected-versions)
+  - [How my approach works](#how-my-approach-works)
+- [MSRC Response](#msrc-response)
+- [Suspected CVE](#suspected-cve)
+- [Usage & Repository Structure](#usage--repository-structure)
+  - [PoC_Fun/](#poc_fun)
+  - [PoC_Boring/](#poc_boring)
+- [See Also](#see-also)
+- [UI Impressions](#ui-impressions)
+
 ## Disclosure Timeline
 
 | Date                  | Event                                                                          |
